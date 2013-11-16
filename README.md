@@ -18,7 +18,7 @@ release.  In the meantime:
 
 * Clone this repo
 * in a python shell:
-        from dispersion import *
+        `from dispersion import *`
 * load the *network_json.json* file from the *data* directory
 * `dispersion(network_json, 1)` will return a dictionary of the absolute and normalized dispersion score for all nodes in my network.
 
