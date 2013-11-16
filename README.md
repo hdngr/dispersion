@@ -23,6 +23,7 @@ release.  In the meantime:
 * `dispersion(network_json, 1)` will return a dictionary of the absolute and normalized dispersion score for all nodes in the network.
 
 ### Implementation
+* Core parts of the algo use [networkx](http://networkx.github.io/)
 * Data: is a GraphAlchemist network json object.  More later on how you can create your ego network using facebook oauth.
 * We used just 4 lines of cypher to query the data from neo4j *./cypher/
 
