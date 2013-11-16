@@ -20,7 +20,7 @@ release.  In the meantime:
 * in a python shell:
         `from dispersion import *`
 * load the *network_json.json* file from the *data* directory
-* `dispersion(network_json, 1)` will return a dictionary of the absolute and normalized dispersion score for all nodes in my network.
+* `dispersion(network_json, 1)` will return a dictionary of the absolute and normalized dispersion score for all nodes in the network.
 
 ### Implementation
 * Data: is a GraphAlchemist network json object.  More later on how you can create your ego network using facebook oauth.
