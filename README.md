@@ -24,7 +24,7 @@ release.  In the meantime:
 
 ### Implementation
 * Core parts of the algo use [networkx](http://networkx.github.io/)
-* Data: is a GraphAlchemist network json object.  More later on how you can create your ego network using facebook oauth.
+* Data: is a [GraphJSON](https://github.com/GraphAlchemist/GraphJSON) object.  More later on how you can create your ego network using facebook oauth.
 * We used just 4 lines of cypher to query the data from neo4j *./cypher/
 
 Feedback and tips on optimization welcome.
