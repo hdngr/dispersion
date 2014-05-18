@@ -1,5 +1,7 @@
 Dispersion
 ==========
+### Note:  Now updated and included in [networkx](http://networkx.github.io/documentation/development/reference/generated/networkx.algorithms.centrality.dispersion.html#networkx.algorithms.centrality.dispersion).
+
 ### Overview
 
 The following is a python implementation of the dispersion algrotithm recently defined by 
