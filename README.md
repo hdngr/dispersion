@@ -1,6 +1,6 @@
 Dispersion
 ==========
-### Note:  Now updated and included in [networkx](http://networkx.github.io/documentation/development/reference/generated/networkx.algorithms.centrality.dispersion.html#networkx.algorithms.centrality.dispersion).
+### Note:  Now updated and included in [networkx](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.dispersion.html).
 
 ### Overview
 
